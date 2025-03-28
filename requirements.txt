@@ -3,3 +3,4 @@ mplfinance
 matplotlib
 streamlit
 dash
+yfinance
